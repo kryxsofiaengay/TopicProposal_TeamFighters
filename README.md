@@ -31,10 +31,6 @@
   
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;The purpose of this study is to comprehend how student moms manage their circumstances in relation to their academics and childrearing. What difficulties, precisely, have they had in balancing their studies with caring for their children at home. The study also aims to identify the coping mechanisms employed by student mothers in these situations. With this in mind, the study's goal is to aid readers in understanding the challenges faced by student moms.The Philippines has one of the highest adolescent birth rates among the ASEAN Member States. Recent World Bank data shows that the Philippines has 47 births annually per 1,000 women aged 15-19, higher than the average adolescent birth rates of 44 globally and 33.5 in the ASEAN region.
 
-****
-<h1>STATEMENT OF THE PROBLEM</h1>  
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;The purpose of this study is to comprehend how student moms manage their circumstances in relation to their academics and childrearing. What difficulties, precisely, have they had in balancing their studies with caring for their children at home. The study also aims to identify the coping mechanisms employed by student mothers in these situations.
-With this in mind, the study's goal is to aid readers in understanding the challenges faced by student moms.
    
  **** 
 <h1> SIGNIFICANCE OF THE PROPOSED PROJECT </h1>  
@@ -46,7 +42,7 @@ With this in mind, the study's goal is to aid readers in understanding the chall
 ****
 
 <h1>METHODS</h1>  
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;The researchers will use available datasets from Our World in Data to analyze the number of pregnancies among adolescents in the Philippines. Categories such as month, year, region, and number of teen pregnancies will be available. All members have access to the original data sources and extraction tables.    
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;The researchers will use available datasets from Our World in Data to analyze the number of pregnancies among adolescents in the Philippines. Categories such as month, year, region, and number of teen pregnancies will be available. All members have access to the original data sources and extraction tables. And other country to have a comparison the level of pregnant people in every month and year.   
 
 
   ****
