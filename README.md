@@ -43,7 +43,8 @@
 
 <h1>METHODS</h1>  
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;The researchers will use available datasets from Our World in Data to analyze the number of pregnancies among adolescents in the Philippines. Categories such as month, year, region, and number of teen pregnancies will be available. All members have access to the original data sources and extraction tables. And other country to have a comparison the level of pregnant people in every month and year.   
-
+       Another way is to estimate the adolescent fertility rate using official statistics on live births, deaths, and population by age group. This method may be less precise than the survey-based method, especially if births are underreported or there are disparities in the population's age distribution.
+Whatever method is utilized, it is critical to verify that the data is as precise and thorough as possible, as well as to evaluate any potential biases or restrictions in the data.
 
   ****
 <h1>EXPECTED OUTPUT</h1>  
