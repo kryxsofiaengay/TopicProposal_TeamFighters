@@ -1,5 +1,4 @@
-![teenages](https://github.com/kryxsofiaengay/TopicProposal_TeamFighters/assets/114215096/11f94b23-d6a1-49c5-ac14-95c45dbd3ec1)
- 
+![teenagepregnancy](https://github.com/kryxsofiaengay/TopicProposal_TeamFighters/assets/114215096/9be3f39b-ba74-4de7-8bd7-c44942544971)
 
 ****
 <h1>INTRODUCTION</h1>
