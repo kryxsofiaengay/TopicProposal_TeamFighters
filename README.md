@@ -53,13 +53,16 @@ Whatever method is utilized, it is critical to verify that the data is as precis
 ****
 <h1> REFERENCES </h1>
 
-*https://sdgs.un.org/partnerships/sdg-1-4-and-5#:~:text=the%20long%20term%20results%20is,nation%20through%20our%20young%20ones.
+[https://sdgs.un.org/partnerships/sdg-1-4-and-5#:~:text=the%20long%20term%20results%20is,nation%20through%20our%20young%20ones.]
 
-*https://populationmatters.org/un-sdgs/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD2rMlNkmDF9HyjQph7-PEENFmGWodw6BwnrZFZWg0M0Km15i3Z00REaAtlUEALw_wcB
+[https://populationmatters.org/un-sdgs/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD2rMlNkmDF9HyjQph7-PEENFmGWodw6BwnrZFZWg0M0Km15i3Z00REaAtlUEALw_wcB]
 
-*https://en.wikipedia.org/wiki/Sustainable_Development_Goal_4
+[https://en.wikipedia.org/wiki/Sustainable_Development_Goal_4]
 
-*https://pcw.gov.ph/gender-equality-and-the-sustainable-development-goals/
+[https://pcw.gov.ph/gender-equality-and-the-sustainable-development-goals/]
   
 
 ![Pink Playful Group Project Presentation](https://github.com/kryxsofiaengay/TopicProposal_TeamFighters/assets/114215096/e410d4df-38f1-4545-9444-bdf23334f84a)
+
+<h1>VIDEO PRESENTATION</h1> 
+(https://youtu.be/fzXmiPisRsQ)
