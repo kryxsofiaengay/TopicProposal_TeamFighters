@@ -61,6 +61,9 @@ https://en.wikipedia.org/wiki/Sustainable_Development_Goal_4
 
 https://pcw.gov.ph/gender-equality-and-the-sustainable-development-goals/  
 
+https://www.kaggle.com/code/alitout/data-exploring/notebook
+
+***
 ![Pink Playful Group Project Presentation](https://github.com/kryxsofiaengay/TopicProposal_TeamFighters/assets/114215096/e410d4df-38f1-4545-9444-bdf23334f84a)
 
 
