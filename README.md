@@ -68,4 +68,6 @@ https://pcw.gov.ph/gender-equality-and-the-sustainable-development-goals/
 
 <h1>VIDEO PRESENTATION</h1> 
 https://youtu.be/fzXmiPisRsQ
-[Adolescent Fertility Rate in our Country.pptx](https://github.com/kryxsofiaengay/TopicProposal_TeamFighters/files/11564185/Adolescent.Fertility.Rate.in.our.Country.pptx)
+
+[Adolescent Fertility Rate in our Country.pptx]
+https://github.com/kryxsofiaengay/TopicProposal_TeamFighters/files/11564185/Adolescent.Fertility.Rate.in.our.Country.pptx
